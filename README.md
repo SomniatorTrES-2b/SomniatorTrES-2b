@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🔭 I’m currently working on nothing
-🌱 I’m currently learning programming on C++ 
+🌱 I’m currently learning programming
 🦈 I love shark
 
 
